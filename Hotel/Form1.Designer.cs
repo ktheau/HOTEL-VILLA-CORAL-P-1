@@ -53,6 +53,16 @@
             btnCopiarPorWhasapp = new Button();
             btnImperactivo = new Button();
             lstResultados = new ListBox();
+            btnNivel1 = new Button();
+            btnNivel1p6 = new Button();
+            btnNivel1p4 = new Button();
+            btnNivel1p3 = new Button();
+            btnNivel1p2 = new Button();
+            btnNivel1p5 = new Button();
+            btnNivel1p7 = new Button();
+            btnNivel1p8 = new Button();
+            btnNivel1p9 = new Button();
+            btnNivel1p10 = new Button();
             ((System.ComponentModel.ISupportInitialize)nudNoches).BeginInit();
             gbCotizador.SuspendLayout();
             gbTotales.SuspendLayout();
